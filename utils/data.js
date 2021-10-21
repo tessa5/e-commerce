@@ -1,0 +1,66 @@
+const data = {
+    products: [
+        {
+            name:'Curly Ginger',
+            slug:'Curly',
+            category: 'human-hair',
+            image: '/images/img0.PNG',
+            price: 80,
+            rating: 4.0,
+            countInStock: '20',
+            description: 'Curly ginger human hair wig',
+        },
+        {
+            name:'Burgundy Short Bob',
+            slug:'Bob',
+            category: 'human-hair',
+            image: '/images/img1.PNG',
+            price: 80,
+            rating: 4.0,
+            countInStock: '20',
+            description: 'Short bob',
+        },
+        {
+            name:'Frontal lace',
+            slug:'Full-frontal',
+            category: 'human-hair',
+            image: '/images/img2.PNG',
+            price: 80,
+            rating: 4.0,
+            countInStock: '20',
+            description: 'Frontal wig, blonde',
+        },
+        {
+            name:'Deep water curls',
+            slug:'Wavy-curls',
+            category: 'human-hair',
+            image: '/images/img3.PNG',
+            price: 80,
+            rating: 4.0,
+            countInStock: '20',
+            description: 'Full Frontal watery curls black',
+        },
+        {
+            name:'Full lace',
+            slug:'wigs',
+            category: 'human-hair',
+            image: '/images/img5.PNG',
+            price: 80,
+            rating: 4.0,
+            countInStock: '20',
+            description: 'Curly black human hair wig (long)',
+        },
+        {
+            name:'Full lace',
+            slug:'Full-lace',
+            category: 'human-hair',
+            image: '/images/img4.PNG',
+            price: 80,
+            rating: 4.0,
+            countInStock: '20',
+            description: 'full lace black wigs',
+        }
+    ],
+}
+
+export default data;
